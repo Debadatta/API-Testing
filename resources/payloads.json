@@ -1,0 +1,11 @@
+{
+    "createdStatus": 201,
+    "okStatus": 200,
+    "updatedStatus": 200,
+    "deleteStatus": 204,
+    "badRequestStatus": 400,
+    "updateUserId": 2,
+    "deleteUserId": 2,
+    "showUserId": 2
+
+}

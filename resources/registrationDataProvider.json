@@ -1,0 +1,20 @@
+{
+    "registrationPayload": {
+        "user1": { "name": "morpheus",  "job": "leader" },
+        "user2": { "name": "debadatt",  "job": "leader" },
+        "user3": { "name": "john",  "job": "leader" },
+        "user4": {"email": "rachel1.howell@reqres.in",
+            "first_name": "Rachel1",
+            "last_name": "Howell1",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"}
+    },
+    "updatePayload": {
+        "user1": {"name": "John",  "job": "contractor"}
+    },
+    "loginPayload": {
+        "validUser": {"email": "eve.holt@reqres.in",  "password": "cityslicka"}        
+    },
+    "invalidLoginPayload": {
+        "inValidUser": {"email": "eve.holt@reqres.in",  "password": ""}        
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "listUser": "https://reqres.in/api/users?page=2",
+    "showUser": "https://reqres.in/api/users",
+    "createUser": "https://reqres.in/api/users",
+    "deleteUser": "https://reqres.in/api/users",
+    "updateUser": "https://reqres.in/api/users",
+    "loginApiUrl": "https://reqres.in/api/login"
+}
